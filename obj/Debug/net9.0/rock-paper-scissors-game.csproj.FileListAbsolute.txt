@@ -1,0 +1,14 @@
+/home/azizbek/github/rock-paper-scissors-game/bin/Debug/net9.0/rock-paper-scissors-game
+/home/azizbek/github/rock-paper-scissors-game/bin/Debug/net9.0/rock-paper-scissors-game.deps.json
+/home/azizbek/github/rock-paper-scissors-game/bin/Debug/net9.0/rock-paper-scissors-game.runtimeconfig.json
+/home/azizbek/github/rock-paper-scissors-game/bin/Debug/net9.0/rock-paper-scissors-game.dll
+/home/azizbek/github/rock-paper-scissors-game/bin/Debug/net9.0/rock-paper-scissors-game.pdb
+/home/azizbek/github/rock-paper-scissors-game/obj/Debug/net9.0/rock-paper-scissors-game.GeneratedMSBuildEditorConfig.editorconfig
+/home/azizbek/github/rock-paper-scissors-game/obj/Debug/net9.0/rock-paper-scissors-game.AssemblyInfoInputs.cache
+/home/azizbek/github/rock-paper-scissors-game/obj/Debug/net9.0/rock-paper-scissors-game.AssemblyInfo.cs
+/home/azizbek/github/rock-paper-scissors-game/obj/Debug/net9.0/rock-paper-scissors-game.csproj.CoreCompileInputs.cache
+/home/azizbek/github/rock-paper-scissors-game/obj/Debug/net9.0/rock-paper-scissors-game.dll
+/home/azizbek/github/rock-paper-scissors-game/obj/Debug/net9.0/refint/rock-paper-scissors-game.dll
+/home/azizbek/github/rock-paper-scissors-game/obj/Debug/net9.0/rock-paper-scissors-game.pdb
+/home/azizbek/github/rock-paper-scissors-game/obj/Debug/net9.0/rock-paper-scissors-game.genruntimeconfig.cache
+/home/azizbek/github/rock-paper-scissors-game/obj/Debug/net9.0/ref/rock-paper-scissors-game.dll
