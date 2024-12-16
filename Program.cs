@@ -107,8 +107,10 @@ namespace rock_paper_scissors_game
                 else
                 {
                     playAgain = false;
-                }                
+                }     
 
+                Console.WriteLine("Thanks for playing!");
+                Console.ReadKey();           
             }
         }
     }
